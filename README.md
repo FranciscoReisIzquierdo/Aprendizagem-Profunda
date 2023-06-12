@@ -1,5 +1,8 @@
 # Logo Diffusion | Aprendizagem-Profunda
 
+## Modelo
+Uma vez que o modelo treinado neste projeto tem cerca de 7GB, este foi hospedado na plataforma Kaggle no seguinte repositório: https://www.kaggle.com/datasets/grupomei30/logodiffusiondataset
+
 ## Scripts do Projeto
 
 ### LogoDiffusionTraining
